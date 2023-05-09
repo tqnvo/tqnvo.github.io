@@ -1,7 +1,7 @@
 ---
 title: "Teaching assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Mathematische Grundlagen IV"
 permalink: /teaching/2023-ss-teaching-assistant
 venue: "RWTH Aachen University, Department"
 date: 2023-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Teaching assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Numerical Methods for Partial Differential Equations (NumPDE)"
 permalink: /teaching/2021-ws-teaching-assistant
 venue: "RWTH Aachen University, Department"
 date: 2021-01-01
