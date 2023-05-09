@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * B.Eng. in abc, Saimaa University of Applied Sciences, Lappeenrantan, Finland, 2014
-* M.Sc. in Computational Mechanics of Materials and Structures (COMMAS), University of Stuttgart, 2018
-* Dr. rer. nat. in Applied and Computational Mathematics, RWTH Aaachen University, 2023 (expected)
+* M.Sc. in Computational Mechanics of Materials and Structures (COMMAS), University of Stuttgart, Germany, 2018
+* Dr. rer. nat. in Applied and Computational Mathematics, RWTH Aachen University, Germany, 2023 (expected)
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
