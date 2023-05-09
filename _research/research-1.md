@@ -1,6 +1,6 @@
 ---
 title: "Poster"
-excerpt: "OBMS23 <br/><img src='/files/POSTER_Vo_OBMS23_2023Mar24.pdf'>"
+excerpt: "OBMS23 <br/><img src='/images/POSTER_Vo_OBMS23_2023Mar24.png'>"
 collection: research
 ---
 
