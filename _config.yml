@@ -85,10 +85,10 @@ author:
   bio              : "PhD Student at RWTH Aachen University"
   location         : "Aachen, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=f84qgOgAAAAJ&hl=de"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Tuan-Vo-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,6 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "https://github.com/tqnvo"
+  gitlab           : "https://github.com/tqnvo"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +114,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/watch?v=a6RuXmKf4uM"
   wikipedia        :
 
 
