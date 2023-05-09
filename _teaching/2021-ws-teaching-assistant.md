@@ -2,9 +2,9 @@
 title: "Teaching assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-ws-teaching-assistant
+permalink: /teaching/2021-ws-teaching-assistant
 venue: "RWTH Aachen University, Department"
-date: 2019-01-01
+date: 2021-01-01
 location: "Aachen, Germany"
 ---
 
