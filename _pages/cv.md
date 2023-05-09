@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * B.Eng. in abc, Saimaa University of Applied Sciences, Lappeenrantan, Finland, 2014
 * M.Sc. in Computational Mechanics of Materials and Structures (COMMAS), University of Stuttgart, Germany, 2018
-* Dr. rer. nat. in Applied and Computational Mathematics, RWTH Aachen University, Germany, 2023 (expected)
+* Dr. rer. nat. in Applied and Computational Mathematics, RWTH Aachen University, Germany, 2023 (expected) -->
 
 <!-- Work experience
 ======
