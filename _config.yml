@@ -82,40 +82,40 @@ analytics:
 author:
   name             : "Tuan Vo"
   avatar           : "profile.png"
-  bio              : "PhD Student | RWTH Aachen University"
+  bio              : "PhD Student"
   location         : "Aachen, Germany"
-  employer         : "tqnvo"
+  employer         : "RWTH Aachen University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=f84qgOgAAAAJ&hl=de"
   email            : "vo@acom.rwth-aachen.de"
   researchgate     : "https://www.researchgate.net/profile/Tuan-Vo-4"
   uri              : "tqnvo"
-  bitbucket        : "tqnvo"
+  bitbucket        : "tqnvo" 
   codepen          : "tqnvo"
-  dribbble         : "tqnvo"
-  flickr           : "tqnvo"
-  facebook         : "tqnvo"
+  dribbble         :
+  flickr           :
+  facebook         :
   foursquare       : "tqnvo"
   github           : "tqnvo"
   #gitlab           : "tqnvo"
   google_plus      : "tqnvo"
   keybase          : "tqnvo"
-  instagram        : "tqnvo"
+  instagram        :
   impactstory      : "https://www.mathematik.rwth-aachen.de/cms/mathematik/Die-Fachgruppe/Aktuell/Meldungen/~zlmdy/dr-rer-mat-night-18-01-2023-/?lidx=1"
-  lastfm           : "tqnvo"
+  lastfm           :
   linkedin         : "tvqn"
   orcid            : "https://orcid.org/0000-0002-5472-1239"
-  pinterest        : "tqnvo"
-  soundcloud       : "tqnvo"
+  pinterest        :
+  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "tqnvo"
-  tumblr           : "tqnvo"
+  steam            :
+  tumblr           :
   twitter          : "tuan_vo"
   vine             : "tqnvo"
-  weibo            : "tqnvo"
-  xing             : "tqnvo"
+  weibo            :
+  xing             :
   youtube          : #"watch?v=a6RuXmKf4uM"
-  wikipedia        : "tqnvo"
+  wikipedia        :
 
 
 # Reading Files
