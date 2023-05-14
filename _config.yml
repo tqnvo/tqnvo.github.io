@@ -119,7 +119,7 @@ author:
   wikipedia        :
   links:
   - label: "Youtube"
-    icon: "fa-var-youtube"
+    icon: "fas fa-fw fa-link"
     url: "https://www.youtube.com/watch?v=a6RuXmKf4uM"
 
 
