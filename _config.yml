@@ -118,8 +118,8 @@ author:
   youtube          : #"watch?v=a6RuXmKf4uM"
   wikipedia        :
   links:
-  -label: "Youtube"
-    icon: "fas fa-fw fa-youtube"
+  - label: "Youtube"
+    icon: "fas fa-fw fa-var-youtube"
     url: "https://www.youtube.com/watch?v=a6RuXmKf4uM"
 
 
