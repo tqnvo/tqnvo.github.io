@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-GB"
 title                    : "Tuan Vo"
-title_separator          : "-Version 1.0"
+title_separator          : "-"
 name                     : &name "Tuan Vo"
-description              : &description "abc personal description"
+description              : &description "personal description"
 url                      : https://tqnvo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tqnvo/tqnvo.github.io"
