@@ -15,7 +15,7 @@ var addressPoints = [
     -122.4192362
   ],
   [
-    "Oxford, GB",
+    "Oxford University, Pembroke College, UK",
     51.7511879,
     -1.2573466
   ]
