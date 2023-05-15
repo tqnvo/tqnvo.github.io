@@ -43,6 +43,9 @@
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate ai-fw" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
+      {% if author.overleaf %}
+        <li><a href="{{ author.overleaf }}"><i class="ai ai-overleaf ai-fw" aria-hidden="true"></i> OverLeaf</a></li>
+      {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
