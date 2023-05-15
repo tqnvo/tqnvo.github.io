@@ -15,6 +15,21 @@ var addressPoints = [
     4.8924534
   ],
   [
+    "Beijing, China",
+    39.9057136,
+    116.3912972
+  ],
+  [
+    "Gothenburg, Sweden",
+    57.7072326,
+    11.9670171
+  ],
+  [
+    "Stockholm, Sweden",
+    59.3251172,
+    18.0710935
+  ],
+  [
     "Oxford, UK",
     51.7520131,
     -1.2578499
