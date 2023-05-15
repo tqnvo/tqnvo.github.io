@@ -5,6 +5,11 @@ var addressPoints = [
     0.1186637
   ],
   [
+    "Stuttgart, Germany",
+    48.7784485,
+    9.1800132
+  ],
+  [
     "Aachen, Germany",
     50.776351,
     6.083862
