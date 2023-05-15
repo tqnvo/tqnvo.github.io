@@ -130,6 +130,9 @@
       {% if author.moodle %}
         <li><a href="{{ author.moodle }}"><i class="ai ai-moodle ai-fw"></i> Moodle</a></li>
       {% endif %}
+      {% if author.vle %}
+        <li><a href="{{ author.vle }}"><i class="ai ai-moodle ai-fw"></i> Vle</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
